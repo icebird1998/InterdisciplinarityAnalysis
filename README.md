@@ -1,7 +1,7 @@
 # Interdisciplinarity Analysis for Geology based on Semantic
-This repository contains the source code for the study “_Measuring Interdisciplinarity in Geology: A Semantic Analysis Approach_".
+This repository contains the source code for the study “**_Measuring Interdisciplinarity in Geology: A Semantic Analysis Approach_**".
 
-1. The **Dataset folder** is aim to store the data propressing files, and the core data file is store in Figshare repository (https://doi.org/10.6084/m9.figshare.29949071).
+1. The **Dataset folder** is aim to store the data propressing files, and the core data file is store in **Figshare repository (**https://doi.org/10.6084/m9.figshare.29949071**)**.
    
 2. The **create_database.ipynb** is aim to transform the vector to domain through the semantic vector.
 
