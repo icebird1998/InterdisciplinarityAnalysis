@@ -11,5 +11,5 @@ This repository contains the source code for the study “**_Measuring Interdisc
 
 5. The **add_llm.ipynb** and the **consistency_LLM_embedding.ipynb** are the code of supplementary experiments. These mainly focus on using LLMs for text classification and assessing the consistency between LLM and semantic-based approach (embedding and semantic similarity).
 
-6. The **subdomain_analysis.ipynb** is aim to further conducted interdisciplinary analysis on the sub-disciplines
+6. The **subdomain_analysis.ipynb** is aim to further conducted interdisciplinary analysis on the sub-disciplines.
    
